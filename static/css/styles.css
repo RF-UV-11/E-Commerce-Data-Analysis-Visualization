@@ -1,0 +1,20 @@
+body {
+    background-color: #343a40;
+    color: #ffffff;
+}
+
+a.list-group-item {
+    background-color: #495057;
+    color: #ffffff;
+}
+
+a.list-group-item.active {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.tab-pane {
+    background-color: #495057;
+    padding: 20px;
+    border-radius: 5px;
+}
