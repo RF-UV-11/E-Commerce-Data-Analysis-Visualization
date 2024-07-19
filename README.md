@@ -43,4 +43,4 @@ In the realm of E-commerce, understanding data is crucial for making informed de
 
 
 ### 📄 License
-This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/).
+This project is licensed under the [Apache-2.0](https://choosealicense.com/licenses/apache-2.0/).
